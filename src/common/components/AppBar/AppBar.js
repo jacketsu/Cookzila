@@ -11,7 +11,7 @@ const AppBar = ({
   <Navbar>
     <Navbar.Header>
       <Navbar.Brand>
-        <Link to="/">OpenCook</Link>
+        <Link to="/">Cookzila</Link>
       </Navbar.Brand>
       <Navbar.Toggle />
     </Navbar.Header>
